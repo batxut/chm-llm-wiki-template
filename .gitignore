@@ -1,0 +1,11 @@
+# .claudian 会话忽略规则
+.claudian/sessions
+
+# .obsidian 忽略规则
+.obsidian/workspace.json
+.obsidian/cache
+.obsidian/plugins/claudian/data.json
+
+# .obsidian-mobile 忽略规则
+.obsidian-mobile/workspace-mobile.json
+.obsidian-mobile/cache

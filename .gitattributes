@@ -1,0 +1,6 @@
+# Auto detect text files and perform LF normalization
+* text=auto eol=lf
+
+# Specifically for markdown and common text files
+*.md text eol=lf
+*.txt text eol=lf
